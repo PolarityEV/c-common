@@ -13,6 +13,8 @@
 #ifndef POLARITY_COMMON_H_
 #define POLARITY_COMMON_H_
 
+#define POLARITY_OK (0)
+
 /**
  * VCU Eerrors 100-254
  */
