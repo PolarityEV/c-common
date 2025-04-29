@@ -1,6 +1,6 @@
-AlignConsecutiveDeclarations: AcrossEmptyLines
-AlignConsecutiveAssignments: AcrossEmptyLines
-AlignConsecutiveMacros: AcrossEmptyLines
+AlignConsecutiveDeclarations: AcrossEmptyLinesAndComments
+AlignConsecutiveAssignments: AcrossEmptyLinesAndComments
+AlignConsecutiveMacros: AcrossEmptyLinesAndComments
 ColumnLimit: 120
 BasedOnStyle: LLVM
 IndentWidth: 2
